@@ -181,6 +181,10 @@ body {
     color: var(--background-main);
   }
 
+  .color-modal {
+    color: #404bbf;
+  }
+
   .navigation-btn-mobile:hover,
   .navigation-btn-mobile:focus {
     color: var(--second-link-color);
@@ -661,8 +665,8 @@ body {
 
 .first-heading {
   margin-bottom: 8px;
-  font-weight: 500;
-  font-size: 20px;
+  font-weight: 700;
+  font-size: 36px;
   line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
